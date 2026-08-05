@@ -16,7 +16,7 @@ export function SiteFooter({ number, fileName, className }: SiteFooterProps) {
         <div>
           <span className="text-muted-foreground text-sm">Copyright © </span>
           <a
-            href="https://github.com/sabertazimi"
+            href="https://github.com/sabertaz"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary text-sm font-medium underline underline-offset-4 transition-colors"
@@ -27,7 +27,7 @@ export function SiteFooter({ number, fileName, className }: SiteFooterProps) {
         </div>
         <div className="flex items-center gap-2">
           <a
-            href="https://github.com/sabertazimi/lab/tree/main/packages/m-league-reviewer"
+            href="https://github.com/sabertaz/lab/tree/main/packages/m-league-reviewer"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"

@@ -71,7 +71,7 @@ export default class App extends Component<object, AppState> {
               </Col>
               <Col>
                 <a
-                  href="https://github.com/sabertazimi/lab"
+                  href="https://github.com/sabertaz/lab"
                   target="_blank"
                   rel="noreferrer"
                   style={{

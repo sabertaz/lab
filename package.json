@@ -6,13 +6,13 @@
   "description": "Experimental prototypes.",
   "author": "sabertazimi <sabertazimi@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/sabertazimi/lab",
+  "homepage": "https://github.com/sabertaz/lab",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sabertazimi/lab.git"
+    "url": "git+https://github.com/sabertaz/lab.git"
   },
   "bugs": {
-    "url": "https://github.com/sabertazimi/lab/issues"
+    "url": "https://github.com/sabertaz/lab/issues"
   },
   "keywords": [
     "html",

@@ -6,8 +6,8 @@ src = "docs/rust"
 language = "zh-CN"
 
 [output.html]
-git-repository-url = "https://github.com/sabertazimi/lab"
-edit-url-template = "https://github.com/sabertazimi/lab/edit/main/{path}"
+git-repository-url = "https://github.com/sabertaz/lab"
+edit-url-template = "https://github.com/sabertaz/lab/edit/main/{path}"
 site-url = "/rust/"
 
 [output.html.playground]

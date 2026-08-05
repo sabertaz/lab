@@ -1,11 +1,11 @@
 # [Lab](https://lab.tazimi.dev)
 
-[![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertazimi)
+[![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertaz)
 [![LICENSE](https://img.shields.io/github/license/sabertazimi/lab?style=for-the-badge)](https://raw.githubusercontent.com/sabertazimi/lab/main/LICENSE)
 [![Lerna](https://img.shields.io/github/lerna-json/v/sabertazimi/lab?logo=npm&style=for-the-badge)](https://github.com/lerna/lerna)
 
 [![Coverage](https://img.shields.io/codecov/c/github/sabertazimi/lab?logo=codecov&style=for-the-badge)](https://codecov.io/gh/sabertazimi/lab)
-[![CI](https://img.shields.io/github/actions/workflow/status/sabertazimi/lab/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertazimi/lab/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/sabertazimi/lab/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/lab/actions/workflows/ci.yml)
 
 Experimental prototypes.
 
@@ -24,22 +24,22 @@ Experimental prototypes.
 
 ## Python
 
-- [Agent CLI](https://github.com/sabertazimi/lab/tree/main/packages/agent-cli): Minimal Claude Code with rich tools, task planning, subagent orchestration, and skill system support.
+- [Agent CLI](https://github.com/sabertaz/lab/tree/main/packages/agent-cli): Minimal Claude Code with rich tools, task planning, subagent orchestration, and skill system support.
 
 ```bash
 uv tool install --editable packages/agent-cli
 ac # or `agent-cli`
 ```
 
-[![Cyber Code](./.github/agent-cli.png 'Cyber Code')](https://github.com/sabertazimi/lab/tree/main/packages/agent-cli)
+[![Cyber Code](./.github/agent-cli.png 'Cyber Code')](https://github.com/sabertaz/lab/tree/main/packages/agent-cli)
 
-- [nanoGPT](https://github.com/sabertazimi/lab/tree/main/packages/nano-gpt): Build GPT from scratch.
+- [nanoGPT](https://github.com/sabertaz/lab/tree/main/packages/nano-gpt): Build GPT from scratch.
 
 ## Rust
 
 - [Rust Notes](https://lab.tazimi.dev/rust)
-- [Rust Snippets](https://github.com/sabertazimi/lab/tree/main/crates/basis)
-- [Rustlings Solutions](https://github.com/sabertazimi/lab/tree/main/crates/rustlings/exercises)
+- [Rust Snippets](https://github.com/sabertaz/lab/tree/main/crates/basis)
+- [Rustlings Solutions](https://github.com/sabertaz/lab/tree/main/crates/rustlings/exercises)
 
 ## Contributing
 
@@ -48,10 +48,10 @@ Please fork this repository and open a pull request.
 
 ## License
 
-MIT License [@Sabertaz](https://github.com/sabertazimi)
+MIT License [@Sabertaz](https://github.com/sabertaz)
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabertazimi)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabertaz)
 [![Email](https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabertazimi@gmail.com)
 [![X](https://img.shields.io/badge/-X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sabertazimi)

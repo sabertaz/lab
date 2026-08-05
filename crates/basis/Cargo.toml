@@ -4,8 +4,8 @@ version = "0.1.0"
 edition = "2021"
 description = "Rust basis."
 license = "MIT"
-homepage = "https://github.com/sabertazimi/lab"
-repository = "https://github.com/sabertazimi/lab"
+homepage = "https://github.com/sabertaz/lab"
+repository = "https://github.com/sabertaz/lab"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
