@@ -1,8 +1,8 @@
 # dblp
 
 [![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertaz)
-[![LICENSE](https://img.shields.io/github/license/sabertazimi/lab?style=for-the-badge)](https://raw.githubusercontent.com/sabertazimi/lab/main/LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/sabertazimi/lab/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/lab/actions/workflows/ci.yml)
+[![LICENSE](https://img.shields.io/github/license/sabertaz/lab?style=for-the-badge)](https://raw.githubusercontent.com/sabertaz/lab/main/LICENSE)
+[![CI](https://img.shields.io/github/actions/workflow/status/sabertaz/lab/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/lab/actions/workflows/ci.yml)
 
 DBLP search application.
 

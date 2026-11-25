@@ -3,7 +3,7 @@ name = "agent-cli"
 version = "0.1.0"
 description = "Minimal Claude Code with rich tools, task planning, subagent orchestration, and skill system support."
 readme = "README.md"
-authors = [{ name = "sabertazimi", email = "sabertazimi@gmail.com" }]
+authors = [{ name = "sabertaz", email = "sabertazimi@gmail.com" }]
 requires-python = ">=3.14.6"
 dependencies = [
   "anthropic>=0.111.0",

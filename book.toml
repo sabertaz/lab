@@ -1,6 +1,6 @@
 [book]
 title = "Rust"
-authors = ["sabertazimi"]
+authors = ["sabertaz"]
 description = "Rust labs and notes."
 src = "docs/rust"
 language = "zh-CN"

@@ -1,11 +1,11 @@
 # [Lab](https://lab.tazimi.dev)
 
 [![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertaz)
-[![LICENSE](https://img.shields.io/github/license/sabertazimi/lab?style=for-the-badge)](https://raw.githubusercontent.com/sabertazimi/lab/main/LICENSE)
-[![Lerna](https://img.shields.io/github/lerna-json/v/sabertazimi/lab?logo=npm&style=for-the-badge)](https://github.com/lerna/lerna)
+[![LICENSE](https://img.shields.io/github/license/sabertaz/lab?style=for-the-badge)](https://raw.githubusercontent.com/sabertaz/lab/main/LICENSE)
+[![Lerna](https://img.shields.io/github/lerna-json/v/sabertaz/lab?logo=npm&style=for-the-badge)](https://github.com/lerna/lerna)
 
-[![Coverage](https://img.shields.io/codecov/c/github/sabertazimi/lab?logo=codecov&style=for-the-badge)](https://codecov.io/gh/sabertazimi/lab)
-[![CI](https://img.shields.io/github/actions/workflow/status/sabertazimi/lab/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/lab/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/codecov/c/github/sabertaz/lab?logo=codecov&style=for-the-badge)](https://codecov.io/gh/sabertaz/lab)
+[![CI](https://img.shields.io/github/actions/workflow/status/sabertaz/lab/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/lab/actions/workflows/ci.yml)
 
 Experimental prototypes.
 

@@ -4,7 +4,7 @@
   "private": true,
   "packageManager": "pnpm@11.15.1",
   "description": "Experimental prototypes.",
-  "author": "sabertazimi <sabertazimi@gmail.com>",
+  "author": "sabertaz <sabertazimi@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/sabertaz/lab",
   "repository": {
