@@ -18,10 +18,6 @@ dev = [
 [tool.uv.workspace]
 members = ["packages/agent-cli", "packages/nano-gpt"]
 
-[[tool.uv.index]]
-url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
-default = true
-
 [tool.uv.sources]
 agent-cli = { workspace = true }
 nano-gpt = { workspace = true }
